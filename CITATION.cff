@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying manuscript and acknowledge the calibration dataset listed in DATA_SOURCES.md."
+title: "Noise-Aware, Error-Budgeted Scheduling of Hybrid Quantum-Classical Workflows Using Time-Varying QPU Calibration Data"
+authors:
+  - family-names: Sardar
+    given-names: "Tanvir H."
+    affiliation: "Department of Computer Science & Engineering, School of Engineering, Dayananda Sagar University, Bengaluru, India"
+version: 1.0.0
+date-released: 2026-11-08
+type: software

@@ -1,0 +1,19 @@
+# Local Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Full source dataset is available from the pinned URL in README.md
+data/train-00000-of-00001.parquet
+
+# Local operating-system/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary rendered previews and logs
+rendered_check/
+*.log
